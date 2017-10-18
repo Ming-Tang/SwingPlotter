@@ -87,48 +87,56 @@ function rp_to_array2d(map, v0) {
 	return arr;
 }
 
+// evaluate at swing model at PV=PV+i*dPV1+j*dPV2 and get seat
+// count for party k
+function evaluateMap(
+  /* P */ pvs,
+  /* P */ dpvx,
+  /* P */ dpvy,
+  /* R*P */ slopes,
+  /* R*P */ intercepts,
+  p) {
+  //const p = this.thread.z;
+  var count = 0;
+  for (var r = 0; r < this.constants.R; r++) {
+    var bestI = 0;
+    var bestE = -100.0;
+    for (var i = 0; i < this.constants.P; i++) {
+      var pv = (this.constants.x0 + this.thread.x * this.constants.dx) * dpvx[i] +
+        (this.constants.y0 + this.thread.y * this.constants.dy) * dpvy[i] +
+        pvs[i];
+
+      var ev = pv * slopes[r][i] + intercepts[r][i];
+      const s = step(bestE, ev);
+      const s1 = step(ev, bestE);
+      bestI = s1 * bestI + s * i;
+      bestE = s1 * bestE + s * ev;
+      //if (s > 0 /*ev > bestE*/) {
+      //  bestI = i;
+      //  bestE = ev;
+      //}
+    }
+
+    if (bestI === p) count++;
+  }
+  return count;
+}
 
 var K = {
-  // evaluate at swing model at PV=PV+i*dPV1+j*dPV2 and get seat
-  // count for party k
-  evaluateMap:
-    gpu.createKernel(
-      function evaluateMap(
+  evaluateMap: gpu.createKernel(evaluateMap),
+
+  render: function(NX, NY, constants) {
+    const kernel = gpu.createKernel(function(
         /* P */ pvs,
         /* P */ dpvx,
         /* P */ dpvy,
         /* R*P */ slopes,
         /* R*P */ intercepts) {
+      const L = (1.0 * evaluateMap(pvs, dpvx, dpvy, slopes, intercepts, 3)) / 338.0;
+      const N = (1.0 * evaluateMap(pvs, dpvx, dpvy, slopes, intercepts, 4)) / 338.0;
+      const C = (1.0 * evaluateMap(pvs, dpvx, dpvy, slopes, intercepts, 1)) / 338.0;
 
-        const p = this.thread.z;
-        var count = 0;
-        for (var r = 0; r < this.constants.R; r++) {
-          var bestI = 0;
-          var bestE = -100.0;
-          for (var i = 0; i < this.constants.P; i++) {
-            var pv = (this.constants.x0 + this.thread.x * this.constants.dx) * dpvx[i] +
-              (this.constants.y0 + this.thread.y * this.constants.dy) * dpvy[i] +
-              pvs[i];
-
-            var ev = pv * slopes[r][i] + intercepts[r][i];
-            if (ev > bestE) {
-              bestI = i;
-              bestE = ev;
-            }
-          }
-          if (bestI === p) count++;
-        }
-        return count;
-      }
-    ),
-
-  render: function(NX, NY) {
-    return gpu.createKernel(function(data1, data2, data3) {
-      const L = data1[this.thread.y][this.thread.x] / 338.0;
-      const N = data2[this.thread.y][this.thread.x] / 338.0;
-      const C = data3[this.thread.y][this.thread.x] / 338.0;
-
-      var k = 0;
+      var k = 0.0;
       if (L > N && L > C) {
         if (L < 0.5) k = 0.2;
         this.color(1, k, k);
@@ -148,12 +156,21 @@ var K = {
         this.color(0.2, 0.5, 0.5);
       }
       //this.color(L, N, C);
-    }, {
+    },
+    {
+      constants: constants,
       output: [NX, NY],
       dimensions: [NX, NY],
       graphical: true,
-      debug: false
-    })
+      debug: false,
+      outputToTexture: true,
+      functions: [evaluateMap]
+    }
+
+    );
+    //kernel.setGraphical(true);
+
+    return kernel;
   }
 };
 
@@ -171,34 +188,48 @@ function start() {
     models.riding_id, models.party_name, models.intercept), -100.0);
 
   const NX = 600, NY = 600;
-  const em = K.evaluateMap;
-  em.setConstants(
-      {
-        x0: -30.0, dx: 60.0 / NX,
-        y0: -30.0, dy: 60.0 / NY,
-        NX: NX,
-        NY: NY,
-        P: Parties.length,
-        R: Ridings.length,
-        N: N
-      });
-  em.setOutput([NX, NY, Parties.length]);
-  const PV = EKP(PopularVotes);
-  (Res = DKP(K.evaluateMap(
-    //[5.0, 30.0, 5.0, 40.0, 20.0],
-    [5.0, 30.0, 5.0, 30.0, 30.0],
-    [0.0, 0.0, 0.0, -1.0, 1.0],
-    [0.0, -1.0, 0.0, 1.0, 0.0],
-    SlopesA,
-    InterceptsA
-  )));
+  const constants = {
+    x0: -30.0, dx: 60.0 / NX,
+    y0: -30.0, dy: 60.0 / NY,
+    NX: NX,
+    NY: NY,
+    P: Parties.length,
+    R: Ridings.length,
+    N: N
+  };
+  //const em = K.evaluateMap;
+  //em.setConstants(constants);
+  //em.setOutput([NX, NY, Parties.length]);
+  //const PV = EKP(PopularVotes);
+  //(Res = DKP(K.evaluateMap(
+  //  //[5.0, 30.0, 5.0, 40.0, 20.0],
+  //  [5.0, 30.0, 5.0, 30.0, 30.0],
+  //  [0.0, 0.0, 0.0, -1.0, 1.0],
+  //  [0.0, -1.0, 0.0, 1.0, 0.0],
+  //  SlopesA,
+  //  InterceptsA
+  //)));
 
-  const render = K.render(NX, NY);
-  render.setOutput([NX, NY]).setGraphical(true);
-  K.r = render;
+  const render = K.render(NX, NY, constants);
+  //render.setOutput([NX, NY]).setGraphical(true);
   const canvas = render.getCanvas();
-  render(Res["Liberal"], Res["New Democratic"], Res["Conservative"]);
   document.getElementsByTagName('header')[0].appendChild(canvas);
+
+  function draw() {
+    const t0 = performance.now();
+    (render(
+      [5.0, 30.0, 5.0, 30.0, 30.0],
+      [0.0, 0.0, 0.0, -1.0, 1.0],
+      [0.0, -1.0, 0.0, 1.0, 0.0],
+      SlopesA,
+      InterceptsA
+    ));
+    const t1 = performance.now();
+    console.log("after", t1 - t0);
+    //requestAnimationFrame(draw);
+  }
+  requestAnimationFrame(draw);
+
 
   if (false) {
     const evaluate = gpu.createKernel(function evaluate(pvs, slopes, intercepts) {
@@ -218,7 +249,7 @@ function start() {
     });
 
     const c = evaluate(PV, SlopesA, InterceptsA);
-    const results = DKR(DVP(Array.from(c)));
+    //const results = DKR(DVP(Array.from(c)));
     //Res = results;
     console.log(results);
     console.log(_.mapValues("length", _.groupBy(_.identity, _.values(Res))));
