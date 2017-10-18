@@ -1,0 +1,1429 @@
+"riding_id","party_name","slope","intercept"
+"Abbotsford","Conservative",1,16.36
+"Abbotsford","New Democratic",1,-6.03
+"Abbotsford","Liberal",1,-6.69
+"Abbotsford","Green",1,1.59
+"Abitibi-Baie-James-Nunavik-Eeyou","Bloc Québécois",1,13.87
+"Abitibi-Baie-James-Nunavik-Eeyou","Green",1,-1.17
+"Abitibi-Baie-James-Nunavik-Eeyou","Liberal",1,-7.33
+"Abitibi-Baie-James-Nunavik-Eeyou","New Democratic",1,17.29
+"Abitibi-Baie-James-Nunavik-Eeyou","Conservative",1,-22.61
+"Abitibi-Témiscamingue","Green",1,-1.7
+"Abitibi-Témiscamingue","Conservative",1,-25.02
+"Abitibi-Témiscamingue","New Democratic",1,21.77
+"Abitibi-Témiscamingue","Liberal",1,-9.84
+"Abitibi-Témiscamingue","Bloc Québécois",1,14.74
+"Acadie-Bathurst","Green",1,-1.1
+"Acadie-Bathurst","New Democratic",1,19.67
+"Acadie-Bathurst","Conservative",1,-24.35
+"Acadie-Bathurst","Liberal",1,11.24
+"Ahuntsic-Cartierville","Green",1,-1.33
+"Ahuntsic-Cartierville","New Democratic",1,10.27
+"Ahuntsic-Cartierville","Liberal",1,7.33
+"Ahuntsic-Cartierville","Bloc Québécois",1,8.53
+"Ahuntsic-Cartierville","Conservative",1,-24.61
+"Ajax","Conservative",1,2.5
+"Ajax","Green",1,-2.03
+"Ajax","Liberal",1,16.4
+"Ajax","New Democratic",1,-11.51
+"Alfred-Pellan","Liberal",1,5.04
+"Alfred-Pellan","Bloc Québécois",1,13.16
+"Alfred-Pellan","Conservative",1,-20.56
+"Alfred-Pellan","Green",1,-1.46
+"Alfred-Pellan","New Democratic",1,4.24
+"Algoma-Manitoulin-Kapuskasing","Conservative",1,-8.18
+"Algoma-Manitoulin-Kapuskasing","Green",1,-1.19
+"Algoma-Manitoulin-Kapuskasing","New Democratic",1,20.19
+"Algoma-Manitoulin-Kapuskasing","Liberal",1,-5.36
+"Argenteuil-La Petite-Nation","Green",1,-1.24
+"Argenteuil-La Petite-Nation","New Democratic",1,5.04
+"Argenteuil-La Petite-Nation","Bloc Québécois",1,13.98
+"Argenteuil-La Petite-Nation","Conservative",1,-20.79
+"Argenteuil-La Petite-Nation","Liberal",1,3.79000000000001
+"Aurora-Oak Ridges-Richmond Hill","New Democratic",1,-14.02
+"Aurora-Oak Ridges-Richmond Hill","Conservative",1,13.28
+"Aurora-Oak Ridges-Richmond Hill","Liberal",1,7.87
+"Aurora-Oak Ridges-Richmond Hill","Green",1,-2.15
+"Avalon","New Democratic",1,-5.3
+"Avalon","Liberal",1,16.43
+"Avalon","Green",1,-2.89
+"Avalon","Conservative",1,-20.81
+"Avignon-La Mitis-Matane-Matapédia","Conservative",1,-25.78
+"Avignon-La Mitis-Matane-Matapédia","New Democratic",1,0.460000000000001
+"Avignon-La Mitis-Matane-Matapédia","Bloc Québécois",1,16.35
+"Avignon-La Mitis-Matane-Matapédia","Liberal",1,0.0799999999999983
+"Avignon-La Mitis-Matane-Matapédia","Green",1,-2.43
+"Banff-Airdrie","Conservative",1,31.46
+"Banff-Airdrie","New Democratic",1,-12.95
+"Banff-Airdrie","Liberal",1,-13.39
+"Banff-Airdrie","Green",1,0.34
+"Barrie-Innisfil","Green",1,0.61
+"Barrie-Innisfil","Liberal",1,-2.36
+"Barrie-Innisfil","Conservative",1,14.5
+"Barrie-Innisfil","New Democratic",1,-7.95
+"Barrie-Springwater-Oro-Medonte","Conservative",1,9.83
+"Barrie-Springwater-Oro-Medonte","Liberal",1,2.1
+"Barrie-Springwater-Oro-Medonte","New Democratic",1,-9.44
+"Barrie-Springwater-Oro-Medonte","Green",1,1.81
+"Battle River-Crowfoot","Liberal",1,-30.1
+"Battle River-Crowfoot","Green",1,-0.25
+"Battle River-Crowfoot","New Democratic",1,-13.19
+"Battle River-Crowfoot","Conservative",1,49
+"Battlefords-Lloydminster","Conservative",1,29.09
+"Battlefords-Lloydminster","New Democratic",1,-2.13
+"Battlefords-Lloydminster","Liberal",1,-22.97
+"Battlefords-Lloydminster","Green",1,-1.73
+"Bay of Quinte","Conservative",1,2.36
+"Bay of Quinte","Liberal",1,11.27
+"Bay of Quinte","Green",1,-1.22
+"Bay of Quinte","New Democratic",1,-7.6
+"Beaches-East York","Conservative",1,-15.48
+"Beaches-East York","New Democratic",1,11.09
+"Beaches-East York","Liberal",1,9.98
+"Beaches-East York","Green",1,-0.85
+"Beauce","Liberal",1,-17.21
+"Beauce","Green",1,-1.74
+"Beauce","New Democratic",1,-9.99
+"Beauce","Conservative",1,26.98
+"Beauce","Bloc Québécois",1,2.75
+"Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix","Liberal",1,-12.58
+"Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix","New Democratic",1,-1.27
+"Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix","Green",1,-1.73
+"Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix","Conservative",1,1.62
+"Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix","Bloc Québécois",1,14.47
+"Beauport-Limoilou","Conservative",1,-1.33
+"Beauport-Limoilou","Liberal",1,-14.06
+"Beauport-Limoilou","Green",1,-1.02
+"Beauport-Limoilou","Bloc Québécois",1,10.1
+"Beauport-Limoilou","New Democratic",1,5.75
+"Beauséjour","Conservative",1,-20.54
+"Beauséjour","Liberal",1,29.55
+"Beauséjour","New Democratic",1,-4.6
+"Beauséjour","Green",1,1.06
+"Bellechasse-Les Etchemins-Lévis","Green",1,-0.18
+"Bellechasse-Les Etchemins-Lévis","Bloc Québécois",1,6.86
+"Bellechasse-Les Etchemins-Lévis","Liberal",1,-18.76
+"Bellechasse-Les Etchemins-Lévis","New Democratic",1,-6.13
+"Bellechasse-Les Etchemins-Lévis","Conservative",1,19.01
+"Beloeil-Chambly","Conservative",1,-22.62
+"Beloeil-Chambly","Green",1,-1.18
+"Beloeil-Chambly","Liberal",1,-10.13
+"Beloeil-Chambly","New Democratic",1,11.34
+"Beloeil-Chambly","Bloc Québécois",1,23.01
+"Berthier-Maskinongé","Conservative",1,-21.71
+"Berthier-Maskinongé","Liberal",1,-19.19
+"Berthier-Maskinongé","New Democratic",1,22.44
+"Berthier-Maskinongé","Green",1,-1.87
+"Berthier-Maskinongé","Bloc Québécois",1,21.13
+"Bonavista-Burin-Trinity","New Democratic",1,-12.44
+"Bonavista-Burin-Trinity","Liberal",1,42.33
+"Bonavista-Burin-Trinity","Conservative",1,-21.84
+"Bonavista-Burin-Trinity","Green",1,-2.58
+"Bourassa","New Democratic",1,-4.79
+"Bourassa","Liberal",1,14.59
+"Bourassa","Bloc Québécois",1,12.46
+"Bourassa","Conservative",1,-22.62
+"Bourassa","Green",1,-1.28
+"Bow River","New Democratic",1,-14.48
+"Bow River","Conservative",1,45.51
+"Bow River","Green",1,-1.59
+"Bow River","Liberal",1,-25.79
+"Brampton Centre","Conservative",1,1.76
+"Brampton Centre","Liberal",1,9.17
+"Brampton Centre","New Democratic",1,-4.61
+"Brampton Centre","Green",1,-1.3
+"Brampton East","New Democratic",1,3.28
+"Brampton East","Green",1,-2.3
+"Brampton East","Conservative",1,-8.37
+"Brampton East","Liberal",1,12.85
+"Brampton North","New Democratic",1,-3.23
+"Brampton North","Conservative",1,1.08
+"Brampton North","Green",1,-1.53
+"Brampton North","Liberal",1,8.9
+"Brampton South","New Democratic",1,-9.08
+"Brampton South","Conservative",1,3.13
+"Brampton South","Green",1,-1.21
+"Brampton South","Liberal",1,12.62
+"Brampton West","New Democratic",1,-7.29
+"Brampton West","Liberal",1,16.42
+"Brampton West","Green",1,-1.88
+"Brampton West","Conservative",1,-1.8
+"Brandon-Souris","Green",1,2.72
+"Brandon-Souris","Liberal",1,-2.16
+"Brandon-Souris","Conservative",1,18.36
+"Brandon-Souris","New Democratic",1,-13.46
+"Brantford-Brant","Liberal",1,-8.77
+"Brantford-Brant","Green",1,-0.93
+"Brantford-Brant","New Democratic",1,5.11
+"Brantford-Brant","Conservative",1,8.98
+"Brome-Missisquoi","New Democratic",1,4.78
+"Brome-Missisquoi","Conservative",1,-20.45
+"Brome-Missisquoi","Green",1,-1.08
+"Brome-Missisquoi","Liberal",1,4.41
+"Brome-Missisquoi","Bloc Québécois",1,12.8
+"Brossard-Saint-Lambert","Liberal",1,10.86
+"Brossard-Saint-Lambert","Green",1,-1.53
+"Brossard-Saint-Lambert","New Democratic",1,4.85
+"Brossard-Saint-Lambert","Conservative",1,-19.31
+"Brossard-Saint-Lambert","Bloc Québécois",1,5.93
+"Bruce-Grey-Owen Sound","Green",1,-0.0800000000000001
+"Bruce-Grey-Owen Sound","New Democratic",1,-8.6
+"Bruce-Grey-Owen Sound","Liberal",1,-0.630000000000003
+"Bruce-Grey-Owen Sound","Conservative",1,14.77
+"Burlington","New Democratic",1,-10.63
+"Burlington","Liberal",1,6.51
+"Burlington","Conservative",1,10.57
+"Burlington","Green",1,-0.99
+"Burnaby North-Seymour","New Democratic",1,9.88
+"Burnaby North-Seymour","Green",1,1.84
+"Burnaby North-Seymour","Conservative",1,-4.07
+"Burnaby North-Seymour","Liberal",1,-3.38
+"Burnaby South","Liberal",1,-5.59
+"Burnaby South","Conservative",1,-4.8
+"Burnaby South","New Democratic",1,15.34
+"Burnaby South","Green",1,-0.58
+"Bécancour-Nicolet-Saurel","Liberal",1,-15.21
+"Bécancour-Nicolet-Saurel","Green",1,-1.17
+"Bécancour-Nicolet-Saurel","Bloc Québécois",1,35.31
+"Bécancour-Nicolet-Saurel","New Democratic",1,2.36
+"Bécancour-Nicolet-Saurel","Conservative",1,-20.5
+"Calgary Centre","New Democratic",1,-14.16
+"Calgary Centre","Conservative",1,13.39
+"Calgary Centre","Liberal",1,7.05
+"Calgary Centre","Green",1,-1.23
+"Calgary Confederation","New Democratic",1,-12.59
+"Calgary Confederation","Conservative",1,14
+"Calgary Confederation","Liberal",1,4.06
+"Calgary Confederation","Green",1,-0.22
+"Calgary Forest Lawn","New Democratic",1,-9.97
+"Calgary Forest Lawn","Liberal",1,-3.51
+"Calgary Forest Lawn","Conservative",1,16.07
+"Calgary Forest Lawn","Green",1,-0.44
+"Calgary Heritage","Liberal",1,-13.5
+"Calgary Heritage","Green",1,-1.3
+"Calgary Heritage","New Democratic",1,-12.45
+"Calgary Heritage","Conservative",1,31.86
+"Calgary Midnapore","Green",1,-0.77
+"Calgary Midnapore","Liberal",1,-16.82
+"Calgary Midnapore","Conservative",1,34.82
+"Calgary Midnapore","New Democratic",1,-12
+"Calgary Nose Hill","New Democratic",1,-10.87
+"Calgary Nose Hill","Green",1,-0.89
+"Calgary Nose Hill","Conservative",1,28.13
+"Calgary Nose Hill","Liberal",1,-12.58
+"Calgary Rocky Ridge","Green",1,-1.28
+"Calgary Rocky Ridge","Liberal",1,-7.81
+"Calgary Rocky Ridge","Conservative",1,28.49
+"Calgary Rocky Ridge","New Democratic",1,-13.94
+"Calgary Shepard","New Democratic",1,-12.9
+"Calgary Shepard","Green",1,-0.82
+"Calgary Shepard","Liberal",1,-14.78
+"Calgary Shepard","Conservative",1,33.96
+"Calgary Signal Hill","Liberal",1,-8.91
+"Calgary Signal Hill","New Democratic",1,-14.73
+"Calgary Signal Hill","Conservative",1,28.64
+"Calgary Signal Hill","Green",1,-0.89
+"Calgary Skyview","Liberal",1,6.41
+"Calgary Skyview","Conservative",1,7.84
+"Calgary Skyview","Green",1,-1.55
+"Calgary Skyview","New Democratic",1,-11.72
+"Cambridge","New Democratic",1,-5.86
+"Cambridge","Liberal",1,3.7
+"Cambridge","Conservative",1,6.74
+"Cambridge","Green",1,-0.2
+"Cape Breton-Canso","Conservative",1,-17.46
+"Cape Breton-Canso","Green",1,-0.47
+"Cape Breton-Canso","New Democratic",1,-11.53
+"Cape Breton-Canso","Liberal",1,34.92
+"Cardigan","New Democratic",1,-8.6
+"Cardigan","Conservative",1,-15.76
+"Cardigan","Liberal",1,25.56
+"Cardigan","Green",1,2.95
+"Cariboo-Prince George","Green",1,0.0300000000000002
+"Cariboo-Prince George","Conservative",1,4.73
+"Cariboo-Prince George","Liberal",1,-7.98
+"Cariboo-Prince George","New Democratic",1,6.1
+"Carleton","Liberal",1,4.27
+"Carleton","Green",1,-0.169999999999999
+"Carleton","New Democratic",1,-13.6
+"Carleton","Conservative",1,14.95
+"Carlton Trail-Eagle Creek","Liberal",1,-25.1
+"Carlton Trail-Eagle Creek","New Democratic",1,-1.07
+"Carlton Trail-Eagle Creek","Conservative",1,32.81
+"Carlton Trail-Eagle Creek","Green",1,-1.19
+"Central Nova","Green",1,0.71
+"Central Nova","Conservative",1,-6.11
+"Central Nova","New Democratic",1,-9.49
+"Central Nova","Liberal",1,19.06
+"Central Okanagan-Similkameen-Nicola","New Democratic",1,-0.43
+"Central Okanagan-Similkameen-Nicola","Conservative",1,7.65
+"Central Okanagan-Similkameen-Nicola","Liberal",1,-2.26
+"Central Okanagan-Similkameen-Nicola","Green",1,0.5
+"Charlesbourg-Haute-Saint-Charles","New Democratic",1,0.34
+"Charlesbourg-Haute-Saint-Charles","Liberal",1,-16.25
+"Charlesbourg-Haute-Saint-Charles","Bloc Québécois",1,7.65
+"Charlesbourg-Haute-Saint-Charles","Green",1,-1.27
+"Charlesbourg-Haute-Saint-Charles","Conservative",1,10.33
+"Charleswood-St. James-Assiniboia-Headingley","Liberal",1,12.55
+"Charleswood-St. James-Assiniboia-Headingley","Green",1,-0.51
+"Charleswood-St. James-Assiniboia-Headingley","Conservative",1,7.13
+"Charleswood-St. James-Assiniboia-Headingley","New Democratic",1,-13.7
+"Charlottetown","Green",1,2.34
+"Charlottetown","New Democratic",1,3.41
+"Charlottetown","Conservative",1,-17.09
+"Charlottetown","Liberal",1,16.8
+"Chatham-Kent-Leamington","Conservative",1,9.8
+"Chatham-Kent-Leamington","Liberal",1,-2.23999999999999
+"Chatham-Kent-Leamington","Green",1,-0.75
+"Chatham-Kent-Leamington","New Democratic",1,-1.36
+"Chicoutimi-Le Fjord","Conservative",1,-15.31
+"Chicoutimi-Le Fjord","New Democratic",1,9.99
+"Chicoutimi-Le Fjord","Green",1,-1.36
+"Chicoutimi-Le Fjord","Liberal",1,-8.38
+"Chicoutimi-Le Fjord","Bloc Québécois",1,15.85
+"Chilliwack-Hope","Liberal",1,-5.69
+"Chilliwack-Hope","Conservative",1,10.42
+"Chilliwack-Hope","New Democratic",1,-1.53
+"Chilliwack-Hope","Green",1,1.28
+"Churchill-Keewatinook Aski","Green",1,-1.64
+"Churchill-Keewatinook Aski","Conservative",1,-21.59
+"Churchill-Keewatinook Aski","New Democratic",1,25.31
+"Churchill-Keewatinook Aski","Liberal",1,2.53
+"Châteauguay-Lacolle","Liberal",1,-0.369999999999997
+"Châteauguay-Lacolle","Green",1,-1.53
+"Châteauguay-Lacolle","Conservative",1,-20.7
+"Châteauguay-Lacolle","Bloc Québécois",1,19.69
+"Châteauguay-Lacolle","New Democratic",1,3.42
+"Cloverdale-Langley City","Conservative",1,2.86
+"Cloverdale-Langley City","Liberal",1,6.05
+"Cloverdale-Langley City","New Democratic",1,-4.08
+"Cloverdale-Langley City","Green",1,0.63
+"Coast of Bays-Central-Notre Dame","New Democratic",1,-13.59
+"Coast of Bays-Central-Notre Dame","Green",1,-2.67
+"Coast of Bays-Central-Notre Dame","Conservative",1,-13.63
+"Coast of Bays-Central-Notre Dame","Liberal",1,35.35
+"Compton-Stanstead","Bloc Québécois",1,16.03
+"Compton-Stanstead","Conservative",1,-19.41
+"Compton-Stanstead","New Democratic",1,7.68
+"Compton-Stanstead","Green",1,-1.49
+"Compton-Stanstead","Liberal",1,-2.59
+"Coquitlam-Port Coquitlam","Green",1,0.24
+"Coquitlam-Port Coquitlam","Conservative",1,0.0899999999999999
+"Coquitlam-Port Coquitlam","Liberal",1,-4.19
+"Coquitlam-Port Coquitlam","New Democratic",1,7.52
+"Courtenay-Alberni","Liberal",1,-17.69
+"Courtenay-Alberni","Green",1,8.31
+"Courtenay-Alberni","New Democratic",1,18.33
+"Courtenay-Alberni","Conservative",1,-3.69
+"Cowichan-Malahat-Langford","New Democratic",1,16.21
+"Cowichan-Malahat-Langford","Green",1,13.5
+"Cowichan-Malahat-Langford","Liberal",1,-15.7
+"Cowichan-Malahat-Langford","Conservative",1,-9.1
+"Cumberland-Colchester","Liberal",1,24.26
+"Cumberland-Colchester","Green",1,0.13
+"Cumberland-Colchester","Conservative",1,-5.46
+"Cumberland-Colchester","New Democratic",1,-14.02
+"Cypress Hills-Grasslands","Green",1,-0.69
+"Cypress Hills-Grasslands","Conservative",1,37.28
+"Cypress Hills-Grasslands","Liberal",1,-24.61
+"Cypress Hills-Grasslands","New Democratic",1,-6.52
+"Dartmouth-Cole Harbour","Green",1,-0.0299999999999998
+"Dartmouth-Cole Harbour","Liberal",1,18.7
+"Dartmouth-Cole Harbour","Conservative",1,-17.88
+"Dartmouth-Cole Harbour","New Democratic",1,4.68
+"Dauphin-Swan River-Neepawa","Green",1,0.4
+"Dauphin-Swan River-Neepawa","New Democratic",1,-7.48
+"Dauphin-Swan River-Neepawa","Liberal",1,-9.96
+"Dauphin-Swan River-Neepawa","Conservative",1,14.43
+"Davenport","New Democratic",1,21.63
+"Davenport","Conservative",1,-21.36
+"Davenport","Green",1,-0.34
+"Davenport","Liberal",1,4.79000000000001
+"Delta","Green",1,-0.26
+"Delta","Liberal",1,9.65000000000001
+"Delta","New Democratic",1,-4.81
+"Delta","Conservative",1,0.870000000000001
+"Desnethé-Missinippi-Churchill River","New Democratic",1,14.42
+"Desnethé-Missinippi-Churchill River","Liberal",1,-5.59
+"Desnethé-Missinippi-Churchill River","Conservative",1,-1.77
+"Desnethé-Missinippi-Churchill River","Green",1,-1.6
+"Don Valley East","New Democratic",1,-9.37
+"Don Valley East","Green",1,-0.84
+"Don Valley East","Conservative",1,-2.68
+"Don Valley East","Liberal",1,18.35
+"Don Valley North","New Democratic",1,-11.2
+"Don Valley North","Green",1,-1.2
+"Don Valley North","Liberal",1,11.95
+"Don Valley North","Conservative",1,5.91
+"Don Valley West","Conservative",1,5.69
+"Don Valley West","Green",1,-1.77
+"Don Valley West","Liberal",1,14.31
+"Don Valley West","New Democratic",1,-13.71
+"Dorval-Lachine-LaSalle","Liberal",1,15.42
+"Dorval-Lachine-LaSalle","Conservative",1,-20.83
+"Dorval-Lachine-LaSalle","New Democratic",1,1.82
+"Dorval-Lachine-LaSalle","Bloc Québécois",1,5.11
+"Dorval-Lachine-LaSalle","Green",1,-1.15
+"Drummond","Bloc Québécois",1,18.13
+"Drummond","New Democratic",1,10.77
+"Drummond","Conservative",1,-14.21
+"Drummond","Liberal",1,-12.97
+"Drummond","Green",1,-1.03
+"Dufferin-Caledon","Conservative",1,14.37
+"Dufferin-Caledon","Liberal",1,-0.359999999999999
+"Dufferin-Caledon","Green",1,3.9
+"Dufferin-Caledon","New Democratic",1,-12.45
+"Durham","Liberal",1,-3.72
+"Durham","New Democratic",1,-3.7
+"Durham","Conservative",1,13.22
+"Durham","Green",1,-0.91
+"Edmonton Centre","Green",1,-0.81
+"Edmonton Centre","New Democratic",1,4.72
+"Edmonton Centre","Conservative",1,3.04
+"Edmonton Centre","Liberal",1,-2.27999999999999
+"Edmonton Griesbach","Liberal",1,-17.78
+"Edmonton Griesbach","Green",1,-1.08
+"Edmonton Griesbach","New Democratic",1,14.29
+"Edmonton Griesbach","Conservative",1,8.05
+"Edmonton Manning","New Democratic",1,3.91
+"Edmonton Manning","Green",1,-1.23
+"Edmonton Manning","Liberal",1,-11.9
+"Edmonton Manning","Conservative",1,13.33
+"Edmonton Mill Woods","Liberal",1,1.77
+"Edmonton Mill Woods","New Democratic",1,-6.95
+"Edmonton Mill Woods","Green",1,-1.22
+"Edmonton Mill Woods","Conservative",1,9.15
+"Edmonton Riverbend","New Democratic",1,-2.68
+"Edmonton Riverbend","Conservative",1,17.98
+"Edmonton Riverbend","Liberal",1,-9.29
+"Edmonton Riverbend","Green",1,-1.22
+"Edmonton Strathcona","Liberal",1,-18.74
+"Edmonton Strathcona","Green",1,-1.13
+"Edmonton Strathcona","Conservative",1,-0.630000000000003
+"Edmonton Strathcona","New Democratic",1,24.23
+"Edmonton West","New Democratic",1,-6.72
+"Edmonton West","Liberal",1,-4.58
+"Edmonton West","Conservative",1,17.42
+"Edmonton West","Green",1,-1.49
+"Edmonton-Wetaskiwin","New Democratic",1,-10.01
+"Edmonton-Wetaskiwin","Liberal",1,-18.02
+"Edmonton-Wetaskiwin","Green",1,-1.1
+"Edmonton-Wetaskiwin","Conservative",1,33.86
+"Eglinton-Lawrence","New Democratic",1,-13.45
+"Eglinton-Lawrence","Conservative",1,10.73
+"Eglinton-Lawrence","Liberal",1,9.42
+"Eglinton-Lawrence","Green",1,-2
+"Egmont","Liberal",1,9.78
+"Egmont","Conservative",1,-2.96
+"Egmont","New Democratic",1,-0.550000000000001
+"Egmont","Green",1,-0.81
+"Elgin-Middlesex-London","Green",1,-0.3
+"Elgin-Middlesex-London","New Democratic",1,-4.32
+"Elgin-Middlesex-London","Conservative",1,17.31
+"Elgin-Middlesex-London","Liberal",1,-8.48
+"Elmwood-Transcona","Liberal",1,-9.96
+"Elmwood-Transcona","New Democratic",1,14.41
+"Elmwood-Transcona","Green",1,-1.07
+"Elmwood-Transcona","Conservative",1,2.09
+"Esquimalt-Saanich-Sooke","Liberal",1,-12.12
+"Esquimalt-Saanich-Sooke","Green",1,16.51
+"Esquimalt-Saanich-Sooke","New Democratic",1,15.28
+"Esquimalt-Saanich-Sooke","Conservative",1,-14.41
+"Essex","Liberal",1,-18.59
+"Essex","Conservative",1,3.78
+"Essex","Green",1,-1.55
+"Essex","New Democratic",1,21.69
+"Etobicoke Centre","Liberal",1,13.3
+"Etobicoke Centre","Green",1,-2.04
+"Etobicoke Centre","New Democratic",1,-11.82
+"Etobicoke Centre","Conservative",1,5.42
+"Etobicoke North","Green",1,-2.18
+"Etobicoke North","New Democratic",1,-7.32
+"Etobicoke North","Liberal",1,22.94
+"Etobicoke North","Conservative",1,-8.91
+"Etobicoke-Lakeshore","Green",1,-1.09
+"Etobicoke-Lakeshore","Conservative",1,0.539999999999996
+"Etobicoke-Lakeshore","Liberal",1,14.23
+"Etobicoke-Lakeshore","New Democratic",1,-8.83
+"Flamborough-Glanbrook","Green",1,-0.0699999999999998
+"Flamborough-Glanbrook","Conservative",1,11.57
+"Flamborough-Glanbrook","Liberal",1,-0.329999999999998
+"Flamborough-Glanbrook","New Democratic",1,-5.72
+"Fleetwood-Port Kells","New Democratic",1,1.73
+"Fleetwood-Port Kells","Liberal",1,7.43
+"Fleetwood-Port Kells","Conservative",1,-2.64
+"Fleetwood-Port Kells","Green",1,-1.06
+"Foothills","New Democratic",1,-13.3
+"Foothills","Conservative",1,43.79
+"Foothills","Green",1,-0.18
+"Foothills","Liberal",1,-26.11
+"Fort McMurray-Cold Lake","Green",1,-1.86
+"Fort McMurray-Cold Lake","Conservative",1,28.65
+"Fort McMurray-Cold Lake","Liberal",1,-11.11
+"Fort McMurray-Cold Lake","New Democratic",1,-11.98
+"Fredericton","Conservative",1,-3.49
+"Fredericton","Green",1,8.99
+"Fredericton","Liberal",1,9.79000000000001
+"Fredericton","New Democratic",1,-9.84
+"Fundy Royal","Liberal",1,1.4
+"Fundy Royal","New Democratic",1,-2.21
+"Fundy Royal","Conservative",1,5.18
+"Fundy Royal","Green",1,0.46
+"Gaspésie-Les Îles-de-la-Madeleine","Liberal",1,-0.739999999999995
+"Gaspésie-Les Îles-de-la-Madeleine","Conservative",1,-25.86
+"Gaspésie-Les Îles-de-la-Madeleine","Green",1,-2.42
+"Gaspésie-Les Îles-de-la-Madeleine","Bloc Québécois",1,16.25
+"Gaspésie-Les Îles-de-la-Madeleine","New Democratic",1,12.79
+"Gatineau","New Democratic",1,6.83
+"Gatineau","Green",1,-1.8
+"Gatineau","Conservative",1,-23.72
+"Gatineau","Bloc Québécois",1,4.77
+"Gatineau","Liberal",1,14.29
+"Glengarry-Prescott-Russell","Liberal",1,13.81
+"Glengarry-Prescott-Russell","Green",1,-1.63
+"Glengarry-Prescott-Russell","New Democratic",1,-11.8
+"Glengarry-Prescott-Russell","Conservative",1,4.5
+"Grande Prairie-Mackenzie","Conservative",1,41
+"Grande Prairie-Mackenzie","Green",1,-0.29
+"Grande Prairie-Mackenzie","Liberal",1,-24.81
+"Grande Prairie-Mackenzie","New Democratic",1,-11.59
+"Guelph","New Democratic",1,-7.72
+"Guelph","Conservative",1,-5.56
+"Guelph","Green",1,7.89
+"Guelph","Liberal",1,9.63
+"Haldimand-Norfolk","Conservative",1,12.23
+"Haldimand-Norfolk","Liberal",1,-2.88
+"Haldimand-Norfolk","New Democratic",1,-6.11
+"Haldimand-Norfolk","Green",1,-0.11
+"Haliburton-Kawartha Lakes-Brock","Green",1,0.56
+"Haliburton-Kawartha Lakes-Brock","Liberal",1,-7.72
+"Haliburton-Kawartha Lakes-Brock","Conservative",1,12.92
+"Haliburton-Kawartha Lakes-Brock","New Democratic",1,-0.300000000000001
+"Halifax","Liberal",1,12.26
+"Halifax","Conservative",1,-23.3
+"Halifax","New Democratic",1,16.4
+"Halifax","Green",1,-0.14
+"Halifax West","Liberal",1,29.18
+"Halifax West","New Democratic",1,-7.96
+"Halifax West","Conservative",1,-16.26
+"Halifax West","Green",1,0.51
+"Hamilton Centre","Liberal",1,-6.08
+"Hamilton Centre","New Democratic",1,25.83
+"Hamilton Centre","Green",1,0.9
+"Hamilton Centre","Conservative",1,-17.26
+"Hamilton East-Stoney Creek","Liberal",1,-0.479999999999997
+"Hamilton East-Stoney Creek","Conservative",1,-6.65
+"Hamilton East-Stoney Creek","Green",1,-0.84
+"Hamilton East-Stoney Creek","New Democratic",1,12.98
+"Hamilton Mountain","Conservative",1,-6.21
+"Hamilton Mountain","Green",1,-0.89
+"Hamilton Mountain","New Democratic",1,16.16
+"Hamilton Mountain","Liberal",1,-5.98
+"Hamilton West-Ancaster-Dundas","New Democratic",1,-3.46
+"Hamilton West-Ancaster-Dundas","Liberal",1,8.21
+"Hamilton West-Ancaster-Dundas","Green",1,0.800000000000001
+"Hamilton West-Ancaster-Dundas","Conservative",1,-0.0799999999999983
+"Hastings-Lennox and Addington","New Democratic",1,-6.98
+"Hastings-Lennox and Addington","Green",1,-0.49
+"Hastings-Lennox and Addington","Conservative",1,10.02
+"Hastings-Lennox and Addington","Liberal",1,2.91
+"Hochelaga","Conservative",1,-25.06
+"Hochelaga","Green",1,-0.24
+"Hochelaga","New Democratic",1,11.16
+"Hochelaga","Liberal",1,-9.54
+"Hochelaga","Bloc Québécois",1,23.05
+"Honoré-Mercier","Green",1,-1.85
+"Honoré-Mercier","Bloc Québécois",1,8.26
+"Honoré-Mercier","Conservative",1,-19.86
+"Honoré-Mercier","Liberal",1,17.08
+"Honoré-Mercier","New Democratic",1,-3.32
+"Hull-Aylmer","Liberal",1,11.9
+"Hull-Aylmer","Bloc Québécois",1,1.87
+"Hull-Aylmer","New Democratic",1,11.79
+"Hull-Aylmer","Green",1,-1.56
+"Hull-Aylmer","Conservative",1,-24.19
+"Humber River-Black Creek","New Democratic",1,-8.99
+"Humber River-Black Creek","Liberal",1,27.44
+"Humber River-Black Creek","Green",1,-1.8
+"Humber River-Black Creek","Conservative",1,-11.75
+"Huron-Bruce","Liberal",1,0.240000000000002
+"Huron-Bruce","Conservative",1,13.03
+"Huron-Bruce","New Democratic",1,-6.78
+"Huron-Bruce","Green",1,-1.03
+"Joliette","New Democratic",1,5.96
+"Joliette","Bloc Québécois",1,28.63
+"Joliette","Green",1,-1.08
+"Joliette","Liberal",1,-11.25
+"Joliette","Conservative",1,-21.85
+"Jonquière","Green",1,-2.07
+"Jonquière","Bloc Québécois",1,18.62
+"Jonquière","New Democratic",1,9.46
+"Jonquière","Liberal",1,-10.99
+"Jonquière","Conservative",1,-15.02
+"Kamloops-Thompson-Cariboo","New Democratic",1,11.04
+"Kamloops-Thompson-Cariboo","Conservative",1,3.34
+"Kamloops-Thompson-Cariboo","Green",1,0.14
+"Kamloops-Thompson-Cariboo","Liberal",1,-9.06
+"Kanata-Carleton","Green",1,-0.74
+"Kanata-Carleton","New Democratic",1,-12.92
+"Kanata-Carleton","Liberal",1,11.82
+"Kanata-Carleton","Conservative",1,7.3
+"Kelowna-Lake Country","New Democratic",1,-5.64
+"Kelowna-Lake Country","Conservative",1,7.84
+"Kelowna-Lake Country","Liberal",1,6.69
+"Kenora","Liberal",1,-3.97
+"Kenora","Green",1,-1.8
+"Kenora","Conservative",1,-3.45
+"Kenora","New Democratic",1,14.15
+"Kildonan-St. Paul","Conservative",1,7.93
+"Kildonan-St. Paul","Liberal",1,3.19
+"Kildonan-St. Paul","Green",1,-1.65
+"Kildonan-St. Paul","New Democratic",1,-5.44
+"King-Vaughan","Green",1,-1.53
+"King-Vaughan","Liberal",1,7.91
+"King-Vaughan","Conservative",1,12.29
+"King-Vaughan","New Democratic",1,-13.2
+"Kings-Hants","Conservative",1,-13.32
+"Kings-Hants","New Democratic",1,-13.31
+"Kings-Hants","Liberal",1,31.27
+"Kings-Hants","Green",1,-0.0699999999999998
+"Kingston and the Islands","Conservative",1,-9.21
+"Kingston and the Islands","New Democratic",1,-2.72
+"Kingston and the Islands","Liberal",1,15.9
+"Kingston and the Islands","Green",1,1.03
+"Kitchener Centre","Green",1,-0.38
+"Kitchener Centre","Liberal",1,9.31
+"Kitchener Centre","Conservative",1,-1.55
+"Kitchener Centre","New Democratic",1,-3.13
+"Kitchener South-Hespeler","Green",1,0.26
+"Kitchener South-Hespeler","New Democratic",1,-4.17
+"Kitchener South-Hespeler","Conservative",1,4.77
+"Kitchener South-Hespeler","Liberal",1,2.8
+"Kitchener-Conestoga","Green",1,-0.68
+"Kitchener-Conestoga","Conservative",1,11.38
+"Kitchener-Conestoga","New Democratic",1,-9.98
+"Kitchener-Conestoga","Liberal",1,3.29000000000001
+"Kootenay-Columbia","Green",1,3.08
+"Kootenay-Columbia","Conservative",1,4.87
+"Kootenay-Columbia","Liberal",1,-19.99
+"Kootenay-Columbia","New Democratic",1,17.5
+"La Pointe-de-l'Île","Green",1,-1.38
+"La Pointe-de-l'Île","Conservative",1,-23.93
+"La Pointe-de-l'Île","Liberal",1,-10.9
+"La Pointe-de-l'Île","Bloc Québécois",1,28.91
+"La Pointe-de-l'Île","New Democratic",1,7.03
+"La Prairie","Bloc Québécois",1,21.57
+"La Prairie","Liberal",1,-3.01
+"La Prairie","Green",1,-1.28
+"La Prairie","New Democratic",1,3.15
+"La Prairie","Conservative",1,-20
+"LaSalle-Émard-Verdun","Liberal",1,4.43
+"LaSalle-Émard-Verdun","Bloc Québécois",1,12.38
+"LaSalle-Émard-Verdun","New Democratic",1,9.22
+"LaSalle-Émard-Verdun","Green",1,-0.24
+"LaSalle-Émard-Verdun","Conservative",1,-25
+"Labrador","New Democratic",1,-5.35
+"Labrador","Conservative",1,-18.04
+"Labrador","Liberal",1,32.28
+"Lac-Saint-Jean","Conservative",1,1.36
+"Lac-Saint-Jean","New Democratic",1,8.73
+"Lac-Saint-Jean","Green",1,-1.97
+"Lac-Saint-Jean","Bloc Québécois",1,13.7
+"Lac-Saint-Jean","Liberal",1,-21.03
+"Lac-Saint-Louis","Green",1,-0.52
+"Lac-Saint-Louis","Conservative",1,-14.49
+"Lac-Saint-Louis","Liberal",1,24.67
+"Lac-Saint-Louis","Bloc Québécois",1,-1.97
+"Lac-Saint-Louis","New Democratic",1,-6.9
+"Lakeland","Green",1,-1.09
+"Lakeland","New Democratic",1,-9.67
+"Lakeland","Liberal",1,-25.78
+"Lakeland","Conservative",1,40.9
+"Lambton-Kent-Middlesex","Conservative",1,18.3
+"Lambton-Kent-Middlesex","Green",1,-0.11
+"Lambton-Kent-Middlesex","Liberal",1,-10.03
+"Lambton-Kent-Middlesex","New Democratic",1,-2.7
+"Lanark-Frontenac-Kingston","Green",1,0.11
+"Lanark-Frontenac-Kingston","New Democratic",1,-5.63
+"Lanark-Frontenac-Kingston","Liberal",1,-5.70999999999999
+"Lanark-Frontenac-Kingston","Conservative",1,15.96
+"Langley-Aldergrove","Liberal",1,-2.92
+"Langley-Aldergrove","New Democratic",1,-7.22
+"Langley-Aldergrove","Conservative",1,13.72
+"Langley-Aldergrove","Green",1,0.98
+"Laurentides-Labelle","Liberal",1,-7.37
+"Laurentides-Labelle","Bloc Québécois",1,25.08
+"Laurentides-Labelle","Green",1,-1.45
+"Laurentides-Labelle","New Democratic",1,6.62
+"Laurentides-Labelle","Conservative",1,-22.08
+"Laurier-Sainte-Marie","Liberal",1,-15.81
+"Laurier-Sainte-Marie","Green",1,0.0500000000000003
+"Laurier-Sainte-Marie","Conservative",1,-27.81
+"Laurier-Sainte-Marie","Bloc Québécois",1,24.04
+"Laurier-Sainte-Marie","New Democratic",1,18.54
+"Laval-Les Îles","Green",1,-1.74
+"Laval-Les Îles","Liberal",1,8.23
+"Laval-Les Îles","New Democratic",1,0.0399999999999991
+"Laval-Les Îles","Bloc Québécois",1,7.75
+"Laval-Les Îles","Conservative",1,-13.81
+"Leeds-Grenville-Thousand Islands and Rideau Lakes","Conservative",1,15.47
+"Leeds-Grenville-Thousand Islands and Rideau Lakes","Green",1,0.27
+"Leeds-Grenville-Thousand Islands and Rideau Lakes","New Democratic",1,-11.36
+"Leeds-Grenville-Thousand Islands and Rideau Lakes","Liberal",1,1.09
+"Lethbridge","New Democratic",1,0.77
+"Lethbridge","Green",1,-0.86
+"Lethbridge","Liberal",1,-20.97
+"Lethbridge","Conservative",1,24.85
+"London North Centre","Green",1,0.13
+"London North Centre","New Democratic",1,-5.07
+"London North Centre","Liberal",1,10.98
+"London North Centre","Conservative",1,-0.809999999999999
+"London West","Green",1,-0.61
+"London West","Conservative",1,3.42
+"London West","Liberal",1,6.35
+"London West","New Democratic",1,-4.9
+"London-Fanshawe","New Democratic",1,18.05
+"London-Fanshawe","Liberal",1,-8.03
+"London-Fanshawe","Green",1,-0.5
+"London-Fanshawe","Conservative",1,-4.71
+"Long Range Mountains","New Democratic",1,-8.4
+"Long Range Mountains","Liberal",1,34.38
+"Long Range Mountains","Green",1,-0.77
+"Long Range Mountains","Conservative",1,-19.75
+"Longueuil-Charles-LeMoyne","Green",1,-0.51
+"Longueuil-Charles-LeMoyne","Bloc Québécois",1,22.36
+"Longueuil-Charles-LeMoyne","New Democratic",1,4.38
+"Longueuil-Charles-LeMoyne","Liberal",1,-4.08
+"Longueuil-Charles-LeMoyne","Conservative",1,-22.32
+"Longueuil-Saint-Hubert","Green",1,-0.94
+"Longueuil-Saint-Hubert","Bloc Québécois",1,22.6
+"Longueuil-Saint-Hubert","Conservative",1,-23.17
+"Longueuil-Saint-Hubert","Liberal",1,-9.46
+"Longueuil-Saint-Hubert","New Democratic",1,11.49
+"Louis-Hébert","Green",1,-0.9
+"Louis-Hébert","Bloc Québécois",1,9.74
+"Louis-Hébert","New Democratic",1,1.08
+"Louis-Hébert","Conservative",1,-4.72
+"Louis-Hébert","Liberal",1,-4.62
+"Louis-Saint-Laurent","New Democratic",1,-3.81
+"Louis-Saint-Laurent","Conservative",1,18.55
+"Louis-Saint-Laurent","Green",1,-1.56
+"Louis-Saint-Laurent","Bloc Québécois",1,5.67
+"Louis-Saint-Laurent","Liberal",1,-18.05
+"Lévis-Lotbinière","Liberal",1,-17.8
+"Lévis-Lotbinière","New Democratic",1,-4.96
+"Lévis-Lotbinière","Conservative",1,18.19
+"Lévis-Lotbinière","Bloc Québécois",1,6.77
+"Lévis-Lotbinière","Green",1,-1.63
+"Madawaska-Restigouche","Conservative",1,-15.42
+"Madawaska-Restigouche","Green",1,-1.53
+"Madawaska-Restigouche","Liberal",1,16.23
+"Madawaska-Restigouche","New Democratic",1,6.19
+"Malpeque","New Democratic",1,-8.56
+"Malpeque","Green",1,5.76
+"Malpeque","Conservative",1,-14.35
+"Malpeque","Liberal",1,22.61
+"Manicouagan","New Democratic",1,-2.22
+"Manicouagan","Bloc Québécois",1,36.58
+"Manicouagan","Liberal",1,-10.1
+"Manicouagan","Green",1,-1.83
+"Manicouagan","Conservative",1,-21.64
+"Marc-Aurèle-Fortin","Green",1,-1.49
+"Marc-Aurèle-Fortin","New Democratic",1,3.86
+"Marc-Aurèle-Fortin","Conservative",1,-19.97
+"Marc-Aurèle-Fortin","Bloc Québécois",1,17.05
+"Marc-Aurèle-Fortin","Liberal",1,1.55
+"Markham-Stouffville","New Democratic",1,-13.63
+"Markham-Stouffville","Liberal",1,9.74
+"Markham-Stouffville","Green",1,-1.51
+"Markham-Stouffville","Conservative",1,10.86
+"Markham-Thornhill","Conservative",1,0.399999999999995
+"Markham-Thornhill","Liberal",1,16.25
+"Markham-Thornhill","Green",1,-2.18
+"Markham-Thornhill","New Democratic",1,-9.01
+"Markham-Unionville","Liberal",1,3.86
+"Markham-Unionville","Conservative",1,17.46
+"Markham-Unionville","New Democratic",1,-14.66
+"Markham-Unionville","Green",1,-1.2
+"Medicine Hat-Cardston-Warner","Green",1,-0.83
+"Medicine Hat-Cardston-Warner","New Democratic",1,-10.06
+"Medicine Hat-Cardston-Warner","Liberal",1,-21.53
+"Medicine Hat-Cardston-Warner","Conservative",1,36.89
+"Milton","New Democratic",1,-8.85
+"Milton","Liberal",1,0.969999999999999
+"Milton","Conservative",1,13.47
+"Milton","Green",1,-1.14
+"Mirabel","Conservative",1,-21.78
+"Mirabel","Green",1,-1.24
+"Mirabel","Liberal",1,-13.36
+"Mirabel","New Democratic",1,10.35
+"Mirabel","Bloc Québécois",1,26.82
+"Miramichi-Grand Lake","Green",1,-0.41
+"Miramichi-Grand Lake","Liberal",1,7.84
+"Miramichi-Grand Lake","New Democratic",1,-4.36
+"Miramichi-Grand Lake","Conservative",1,2.4
+"Mission-Matsqui-Fraser Canyon","Green",1,1.72
+"Mission-Matsqui-Fraser Canyon","Conservative",1,3
+"Mission-Matsqui-Fraser Canyon","New Democratic",1,0.82
+"Mission-Matsqui-Fraser Canyon","Liberal",1,-2.23999999999999
+"Mississauga Centre","New Democratic",1,-10.24
+"Mississauga Centre","Conservative",1,1.71
+"Mississauga Centre","Green",1,-1.25
+"Mississauga Centre","Liberal",1,15.25
+"Mississauga East-Cooksville","New Democratic",1,-11.1
+"Mississauga East-Cooksville","Green",1,-1.95
+"Mississauga East-Cooksville","Liberal",1,14.76
+"Mississauga East-Cooksville","Conservative",1,3.43999999999999
+"Mississauga-Erin Mills","Green",1,-1.79
+"Mississauga-Erin Mills","Conservative",1,7.33
+"Mississauga-Erin Mills","Liberal",1,10.25
+"Mississauga-Erin Mills","New Democratic",1,-10.32
+"Mississauga-Lakeshore","Green",1,-1.07
+"Mississauga-Lakeshore","New Democratic",1,-11.74
+"Mississauga-Lakeshore","Conservative",1,9.31000000000001
+"Mississauga-Lakeshore","Liberal",1,8.24
+"Mississauga-Malton","New Democratic",1,-7.42
+"Mississauga-Malton","Green",1,-1.76
+"Mississauga-Malton","Conservative",1,-5.47
+"Mississauga-Malton","Liberal",1,19.65
+"Mississauga-Streetsville","Conservative",1,8.49
+"Mississauga-Streetsville","Green",1,-1.12
+"Mississauga-Streetsville","New Democratic",1,-10.73
+"Mississauga-Streetsville","Liberal",1,8.37
+"Moncton-Riverview-Dieppe","Liberal",1,18.28
+"Moncton-Riverview-Dieppe","New Democratic",1,-3.55
+"Moncton-Riverview-Dieppe","Green",1,1.18
+"Moncton-Riverview-Dieppe","Conservative",1,-10.45
+"Montarville","Bloc Québécois",1,23.75
+"Montarville","New Democratic",1,4.95
+"Montarville","Liberal",1,-6.93
+"Montarville","Green",1,-1.03
+"Montarville","Conservative",1,-21.06
+"Montcalm","Conservative",1,-22.3
+"Montcalm","Liberal",1,-12.15
+"Montcalm","Bloc Québécois",1,31.94
+"Montcalm","New Democratic",1,3.72
+"Montcalm","Green",1,-1.59
+"Montmagny-L'Islet-Kamouraska-Rivière-du-Loup","Conservative",1,-2.92
+"Montmagny-L'Islet-Kamouraska-Rivière-du-Loup","Green",1,-1.76
+"Montmagny-L'Islet-Kamouraska-Rivière-du-Loup","New Democratic",1,4.47
+"Montmagny-L'Islet-Kamouraska-Rivière-du-Loup","Bloc Québécois",1,11.45
+"Montmagny-L'Islet-Kamouraska-Rivière-du-Loup","Liberal",1,-11.04
+"Moose Jaw-Lake Centre-Lanigan","New Democratic",1,4.05
+"Moose Jaw-Lake Centre-Lanigan","Liberal",1,-21.49
+"Moose Jaw-Lake Centre-Lanigan","Green",1,-1.14
+"Moose Jaw-Lake Centre-Lanigan","Conservative",1,23.55
+"Mount Royal","Liberal",1,10.87
+"Mount Royal","Bloc Québécois",1,-2.77
+"Mount Royal","New Democratic",1,-11.65
+"Mount Royal","Conservative",1,5.97
+"Mount Royal","Green",1,-1.88
+"Mégantic-L'Érable","Liberal",1,-11.33
+"Mégantic-L'Érable","New Democratic",1,2.23
+"Mégantic-L'Érable","Green",1,-1.3
+"Mégantic-L'Érable","Conservative",1,3.51
+"Mégantic-L'Érable","Bloc Québécois",1,7.68
+"Nanaimo-Ladysmith","Conservative",1,-8.51
+"Nanaimo-Ladysmith","Green",1,16.37
+"Nanaimo-Ladysmith","New Democratic",1,13.47
+"Nanaimo-Ladysmith","Liberal",1,-15.97
+"Nepean","Conservative",1,4.22
+"Nepean","Liberal",1,12.95
+"Nepean","Green",1,-1.1
+"Nepean","New Democratic",1,-11.53
+"New Brunswick Southwest","New Democratic",1,-7.16
+"New Brunswick Southwest","Green",1,1.52
+"New Brunswick Southwest","Conservative",1,6.65
+"New Brunswick Southwest","Liberal",1,4.45
+"New Westminster-Burnaby","Conservative",1,-11.94
+"New Westminster-Burnaby","Green",1,1.29
+"New Westminster-Burnaby","New Democratic",1,23.73
+"New Westminster-Burnaby","Liberal",1,-10.5
+"Newmarket-Aurora","Liberal",1,5.71
+"Newmarket-Aurora","Conservative",1,10.7
+"Newmarket-Aurora","Green",1,-1.07
+"Newmarket-Aurora","New Democratic",1,-11.22
+"Niagara Centre","Green",1,-1.02
+"Niagara Centre","Conservative",1,-2.2
+"Niagara Centre","New Democratic",1,11.76
+"Niagara Centre","Liberal",1,-3.79
+"Niagara Falls","New Democratic",1,1.17
+"Niagara Falls","Conservative",1,10.18
+"Niagara Falls","Liberal",1,-4.98
+"Niagara Falls","Green",1,-0.91
+"Niagara West","Conservative",1,16.91
+"Niagara West","New Democratic",1,-8.28
+"Niagara West","Liberal",1,-6.73999999999999
+"Niagara West","Green",1,-0.45
+"Nickel Belt","Conservative",1,-15.17
+"Nickel Belt","New Democratic",1,18.05
+"Nickel Belt","Liberal",1,3.33
+"Nickel Belt","Green",1,-0.95
+"Nipissing-Timiskaming","Liberal",1,12.41
+"Nipissing-Timiskaming","Conservative",1,-2.6
+"Nipissing-Timiskaming","New Democratic",1,-3.49
+"Nipissing-Timiskaming","Green",1,-0.86
+"North Island-Powell River","Green",1,4.73
+"North Island-Powell River","Conservative",1,-5.74
+"North Island-Powell River","Liberal",1,-14
+"North Island-Powell River","New Democratic",1,20.48
+"North Okanagan-Shuswap","Green",1,1.73
+"North Okanagan-Shuswap","Liberal",1,-9.52
+"North Okanagan-Shuswap","New Democratic",1,5.87
+"North Okanagan-Shuswap","Conservative",1,7.39
+"North Vancouver","Conservative",1,-5.03
+"North Vancouver","New Democratic",1,-11.94
+"North Vancouver","Green",1,4.88
+"North Vancouver","Liberal",1,17.18
+"Northumberland-Peterborough South","Conservative",1,7.65
+"Northumberland-Peterborough South","Liberal",1,3.04
+"Northumberland-Peterborough South","Green",1,-0.3
+"Northumberland-Peterborough South","New Democratic",1,-4.93
+"Northwest Territories","New Democratic",1,10.75
+"Northwest Territories","Conservative",1,-13.56
+"Northwest Territories","Green",1,-0.6
+"Northwest Territories","Liberal",1,8.87
+"Notre-Dame-de-Grâce-Westmount","New Democratic",1,2.03
+"Notre-Dame-de-Grâce-Westmount","Liberal",1,18.2
+"Notre-Dame-de-Grâce-Westmount","Green",1,-0.37
+"Notre-Dame-de-Grâce-Westmount","Conservative",1,-17.54
+"Notre-Dame-de-Grâce-Westmount","Bloc Québécois",1,-2.19
+"Nunavut","Liberal",1,7.64
+"Nunavut","New Democratic",1,6.85
+"Nunavut","Conservative",1,-7.13
+"Nunavut","Green",1,-1.9
+"Oakville","New Democratic",1,-13.81
+"Oakville","Green",1,-1.24
+"Oakville","Liberal",1,9.93
+"Oakville","Conservative",1,10.57
+"Oakville North-Burlington","Green",1,-1.83
+"Oakville North-Burlington","Conservative",1,11.42
+"Oakville North-Burlington","New Democratic",1,-12.48
+"Oakville North-Burlington","Liberal",1,7.27
+"Orléans","Liberal",1,20.2
+"Orléans","New Democratic",1,-11.76
+"Orléans","Green",1,-1.62
+"Orléans","Conservative",1,-1.37
+"Oshawa","Conservative",1,6.26
+"Oshawa","New Democratic",1,12.14
+"Oshawa","Green",1,-0.92
+"Oshawa","Liberal",1,-12.14
+"Ottawa Centre","Liberal",1,3.19
+"Ottawa Centre","Conservative",1,-17.42
+"Ottawa Centre","New Democratic",1,18.81
+"Ottawa Centre","Green",1,-0.46
+"Ottawa South","Liberal",1,20.59
+"Ottawa South","Conservative",1,-7.61
+"Ottawa South","New Democratic",1,-8.16
+"Ottawa South","Green",1,-0.51
+"Ottawa West-Nepean","Conservative",1,-2.03
+"Ottawa West-Nepean","Liberal",1,16.21
+"Ottawa West-Nepean","Green",1,-0.63
+"Ottawa West-Nepean","New Democratic",1,-9.93
+"Ottawa-Vanier","Conservative",1,-12.8
+"Ottawa-Vanier","New Democratic",1,-0.48
+"Ottawa-Vanier","Liberal",1,18.1
+"Ottawa-Vanier","Green",1,-0.36
+"Outremont","Green",1,0.18
+"Outremont","Liberal",1,-6.01
+"Outremont","Conservative",1,-22.38
+"Outremont","Bloc Québécois",1,3.74
+"Outremont","New Democratic",1,24.38
+"Oxford","Conservative",1,13.79
+"Oxford","Liberal",1,-7.27
+"Oxford","Green",1,0.0700000000000003
+"Oxford","New Democratic",1,-3.23
+"Papineau","New Democratic",1,6.14
+"Papineau","Green",1,-0.59
+"Papineau","Liberal",1,12.51
+"Papineau","Bloc Québécois",1,7.51
+"Papineau","Conservative",1,-27.2
+"Parkdale-High Park","Green",1,-0.45
+"Parkdale-High Park","Liberal",1,2.57
+"Parkdale-High Park","Conservative",1,-18.86
+"Parkdale-High Park","New Democratic",1,20.51
+"Parry Sound-Muskoka","Green",1,3.79
+"Parry Sound-Muskoka","New Democratic",1,-9.62
+"Parry Sound-Muskoka","Conservative",1,11.39
+"Parry Sound-Muskoka","Liberal",1,-0.590000000000003
+"Peace River-Westlock","Conservative",1,37.44
+"Peace River-Westlock","New Democratic",1,-5.34
+"Peace River-Westlock","Liberal",1,-26.63
+"Peace River-Westlock","Green",1,-0.91
+"Perth-Wellington","New Democratic",1,-4.73
+"Perth-Wellington","Conservative",1,11.09
+"Perth-Wellington","Green",1,-0.83
+"Perth-Wellington","Liberal",1,-1.97
+"Peterborough-Kawartha","New Democratic",1,-1.04
+"Peterborough-Kawartha","Green",1,-1.21
+"Peterborough-Kawartha","Liberal",1,4.35
+"Peterborough-Kawartha","Conservative",1,3.16
+"Pickering-Uxbridge","Green",1,-1.12
+"Pickering-Uxbridge","Conservative",1,6.28
+"Pickering-Uxbridge","Liberal",1,10.83
+"Pickering-Uxbridge","New Democratic",1,-10.52
+"Pierre-Boucher-Les Patriotes-Verchères","Conservative",1,-21.67
+"Pierre-Boucher-Les Patriotes-Verchères","Green",1,5.08
+"Pierre-Boucher-Les Patriotes-Verchères","Liberal",1,-11.19
+"Pierre-Boucher-Les Patriotes-Verchères","New Democratic",1,4.61
+"Pierre-Boucher-Les Patriotes-Verchères","Bloc Québécois",1,23.97
+"Pierrefonds-Dollard","Green",1,-1.95
+"Pierrefonds-Dollard","Liberal",1,19.19
+"Pierrefonds-Dollard","New Democratic",1,-3.35
+"Pierrefonds-Dollard","Bloc Québécois",1,-1.18
+"Pierrefonds-Dollard","Conservative",1,-11.92
+"Pitt Meadows-Maple Ridge","New Democratic",1,9.9
+"Pitt Meadows-Maple Ridge","Liberal",1,-5.58
+"Pitt Meadows-Maple Ridge","Conservative",1,-0.510000000000002
+"Pitt Meadows-Maple Ridge","Green",1,0.79
+"Pontiac","Conservative",1,-17.98
+"Pontiac","Green",1,-1.69
+"Pontiac","New Democratic",1,2.78
+"Pontiac","Bloc Québécois",1,2.24
+"Pontiac","Liberal",1,15.07
+"Port Moody-Coquitlam","New Democratic",1,16.32
+"Port Moody-Coquitlam","Liberal",1,-8.58
+"Port Moody-Coquitlam","Green",1,0.0100000000000002
+"Port Moody-Coquitlam","Conservative",1,-2.44
+"Portage-Lisgar","Green",1,0.54
+"Portage-Lisgar","Conservative",1,28.93
+"Portage-Lisgar","New Democratic",1,-13.53
+"Portage-Lisgar","Liberal",1,-13.68
+"Portneuf-Jacques-Cartier","Liberal",1,-17.97
+"Portneuf-Jacques-Cartier","Green",1,-1.63
+"Portneuf-Jacques-Cartier","Conservative",1,12.09
+"Portneuf-Jacques-Cartier","Bloc Québécois",1,6.03
+"Portneuf-Jacques-Cartier","New Democratic",1,2.37
+"Prince Albert","Green",1,-1.5
+"Prince Albert","Liberal",1,-19.65
+"Prince Albert","New Democratic",1,8.73
+"Prince Albert","Conservative",1,17.88
+"Prince George-Peace River-Northern Rockies","Conservative",1,20.61
+"Prince George-Peace River-Northern Rockies","Green",1,1.72
+"Prince George-Peace River-Northern Rockies","New Democratic",1,-4.28
+"Prince George-Peace River-Northern Rockies","Liberal",1,-14.57
+"Provencher","Green",1,0.55
+"Provencher","New Democratic",1,-14.43
+"Provencher","Conservative",1,24.15
+"Provencher","Liberal",1,-4.81
+"Québec","New Democratic",1,7.31
+"Québec","Bloc Québécois",1,14.18
+"Québec","Liberal",1,-10.57
+"Québec","Green",1,-0.52
+"Québec","Conservative",1,-10.12
+"Red Deer-Lacombe","Conservative",1,38.8
+"Red Deer-Lacombe","New Democratic",1,-8.29
+"Red Deer-Lacombe","Liberal",1,-24.49
+"Red Deer-Lacombe","Green",1,-0.55
+"Red Deer-Mountain View","Liberal",1,-26.04
+"Red Deer-Mountain View","Conservative",1,42.42
+"Red Deer-Mountain View","New Democratic",1,-11.32
+"Red Deer-Mountain View","Green",1,-0.82
+"Regina-Lewvan","New Democratic",1,15.48
+"Regina-Lewvan","Liberal",1,-12
+"Regina-Lewvan","Green",1,-1.68
+"Regina-Lewvan","Conservative",1,3.02
+"Regina-Qu'Appelle","Conservative",1,12.79
+"Regina-Qu'Appelle","Liberal",1,-16.69
+"Regina-Qu'Appelle","Green",1,-1.12
+"Regina-Qu'Appelle","New Democratic",1,10.48
+"Regina-Wascana","New Democratic",1,-7.18
+"Regina-Wascana","Green",1,-1.37
+"Regina-Wascana","Conservative",1,-1.64
+"Regina-Wascana","Liberal",1,15.66
+"Renfrew-Nipissing-Pembroke","Conservative",1,13.92
+"Renfrew-Nipissing-Pembroke","New Democratic",1,-11.17
+"Renfrew-Nipissing-Pembroke","Liberal",1,-6.81
+"Renfrew-Nipissing-Pembroke","Green",1,-1.5
+"Repentigny","Liberal",1,-12.18
+"Repentigny","Conservative",1,-21.09
+"Repentigny","Bloc Québécois",1,30.01
+"Repentigny","New Democratic",1,3.53
+"Repentigny","Green",1,-1.53
+"Richmond Centre","Conservative",1,12.3
+"Richmond Centre","New Democratic",1,-8.19
+"Richmond Centre","Liberal",1,1.89
+"Richmond Centre","Green",1,-0.54
+"Richmond Hill","New Democratic",1,-11.69
+"Richmond Hill","Green",1,-1.69
+"Richmond Hill","Liberal",1,7.43
+"Richmond Hill","Conservative",1,11.41
+"Richmond-Arthabaska","Conservative",1,-0.34
+"Richmond-Arthabaska","Green",1,-1.75
+"Richmond-Arthabaska","Liberal",1,-14.8
+"Richmond-Arthabaska","New Democratic",1,4.52
+"Richmond-Arthabaska","Bloc Québécois",1,12.51
+"Rimouski-Neigette-Témiscouata-Les Basques","Conservative",1,-24.43
+"Rimouski-Neigette-Témiscouata-Les Basques","New Democratic",1,23.38
+"Rimouski-Neigette-Témiscouata-Les Basques","Bloc Québécois",1,14.63
+"Rimouski-Neigette-Témiscouata-Les Basques","Green",1,-1.94
+"Rimouski-Neigette-Témiscouata-Les Basques","Liberal",1,-11.45
+"Rivière-des-Mille-Îles","Green",1,-1.47
+"Rivière-des-Mille-Îles","Bloc Québécois",1,20.75
+"Rivière-des-Mille-Îles","New Democratic",1,9.75
+"Rivière-des-Mille-Îles","Liberal",1,-7.1
+"Rivière-des-Mille-Îles","Conservative",1,-21.4
+"Rivière-du-Nord","Liberal",1,-13.11
+"Rivière-du-Nord","Green",1,-0.9
+"Rivière-du-Nord","New Democratic",1,10.41
+"Rivière-du-Nord","Bloc Québécois",1,27.38
+"Rivière-du-Nord","Conservative",1,-23.45
+"Rosemont-La Petite-Patrie","New Democratic",1,29.44
+"Rosemont-La Petite-Patrie","Bloc Québécois",1,16.36
+"Rosemont-La Petite-Patrie","Conservative",1,-27.62
+"Rosemont-La Petite-Patrie","Liberal",1,-18.79
+"Rosemont-La Petite-Patrie","Green",1,-0.37
+"Saanich-Gulf Islands","New Democratic",1,-10.66
+"Saanich-Gulf Islands","Green",1,50.97
+"Saanich-Gulf Islands","Conservative",1,-12.45
+"Saanich-Gulf Islands","Liberal",1,-22.77
+"Sackville-Preston-Chezzetcook","Liberal",1,8.48
+"Sackville-Preston-Chezzetcook","Green",1,-0.649999999999999
+"Sackville-Preston-Chezzetcook","New Democratic",1,14.66
+"Sackville-Preston-Chezzetcook","Conservative",1,-17.03
+"Saint Boniface-Saint Vital","Liberal",1,18.97
+"Saint Boniface-Saint Vital","New Democratic",1,-9.14
+"Saint Boniface-Saint Vital","Conservative",1,-3.22
+"Saint Boniface-Saint Vital","Green",1,-1.14
+"Saint John-Rothesay","New Democratic",1,-2.2
+"Saint John-Rothesay","Conservative",1,-1.36
+"Saint John-Rothesay","Green",1,-0.31
+"Saint John-Rothesay","Liberal",1,9.33
+"Saint-Hyacinthe-Bagot","New Democratic",1,8.97
+"Saint-Hyacinthe-Bagot","Green",1,-1.13
+"Saint-Hyacinthe-Bagot","Bloc Québécois",1,19.63
+"Saint-Hyacinthe-Bagot","Liberal",1,-11.87
+"Saint-Hyacinthe-Bagot","Conservative",1,-15.21
+"Saint-Jean","Bloc Québécois",1,20.14
+"Saint-Jean","New Democratic",1,9.34
+"Saint-Jean","Liberal",1,-6.31
+"Saint-Jean","Green",1,-1.31
+"Saint-Jean","Conservative",1,-21.06
+"Saint-Laurent","New Democratic",1,-8.21
+"Saint-Laurent","Conservative",1,-12.4
+"Saint-Laurent","Green",1,-1.01
+"Saint-Laurent","Bloc Québécois",1,-0.0100000000000007
+"Saint-Laurent","Liberal",1,22.1
+"Saint-Léonard-Saint-Michel","Conservative",1,-20.78
+"Saint-Léonard-Saint-Michel","Green",1,-1.62
+"Saint-Léonard-Saint-Michel","Liberal",1,25.26
+"Saint-Léonard-Saint-Michel","New Democratic",1,-4.88
+"Saint-Léonard-Saint-Michel","Bloc Québécois",1,2.52
+"Saint-Maurice-Champlain","Liberal",1,2.05
+"Saint-Maurice-Champlain","Conservative",1,-15.64
+"Saint-Maurice-Champlain","New Democratic",1,1.04
+"Saint-Maurice-Champlain","Green",1,-1.49
+"Saint-Maurice-Champlain","Bloc Québécois",1,14.49
+"Salaberry-Suroît","Conservative",1,-21.94
+"Salaberry-Suroît","New Democratic",1,10.7
+"Salaberry-Suroît","Bloc Québécois",1,23.69
+"Salaberry-Suroît","Green",1,-2.02
+"Salaberry-Suroît","Liberal",1,-10.29
+"Sarnia-Lambton","Liberal",1,-12.17
+"Sarnia-Lambton","New Democratic",1,11.37
+"Sarnia-Lambton","Conservative",1,6.89
+"Sarnia-Lambton","Green",1,-0.63
+"Saskatoon West","Liberal",1,-14.99
+"Saskatoon West","Green",1,-1.69
+"Saskatoon West","Conservative",1,0.969999999999995
+"Saskatoon West","New Democratic",1,19.83
+"Saskatoon-Grasswood","Conservative",1,9.67
+"Saskatoon-Grasswood","Green",1,-1.59
+"Saskatoon-Grasswood","New Democratic",1,10.45
+"Saskatoon-Grasswood","Liberal",1,-13.07
+"Saskatoon-University","Conservative",1,9.62
+"Saskatoon-University","New Democratic",1,11.8
+"Saskatoon-University","Liberal",1,-14.26
+"Saskatoon-University","Green",1,-1.9
+"Sault Ste. Marie","Conservative",1,-0.789999999999999
+"Sault Ste. Marie","Green",1,-1.3
+"Sault Ste. Marie","New Democratic",1,2.08
+"Sault Ste. Marie","Liberal",1,5.28
+"Scarborough Centre","New Democratic",1,-8.13
+"Scarborough Centre","Green",1,-1.33
+"Scarborough Centre","Conservative",1,0.790000000000003
+"Scarborough Centre","Liberal",1,11.03
+"Scarborough North","Green",1,-1.95
+"Scarborough North","New Democratic",1,2.34
+"Scarborough North","Conservative",1,-4.51
+"Scarborough North","Liberal",1,8.77
+"Scarborough Southwest","Liberal",1,13
+"Scarborough Southwest","New Democratic",1,4
+"Scarborough Southwest","Conservative",1,-10.69
+"Scarborough Southwest","Green",1,-0.85
+"Scarborough-Agincourt","Liberal",1,12.43
+"Scarborough-Agincourt","Conservative",1,6.09
+"Scarborough-Agincourt","Green",1,-2.03
+"Scarborough-Agincourt","New Democratic",1,-11.83
+"Scarborough-Guildwood","Conservative",1,-5.41
+"Scarborough-Guildwood","Liberal",1,20.53
+"Scarborough-Guildwood","Green",1,-2.03
+"Scarborough-Guildwood","New Democratic",1,-8.43
+"Scarborough-Rouge Park","Green",1,-1.4
+"Scarborough-Rouge Park","Liberal",1,20.77
+"Scarborough-Rouge Park","New Democratic",1,-9.37
+"Scarborough-Rouge Park","Conservative",1,-4.55
+"Selkirk-Interlake-Eastman","New Democratic",1,-8.29
+"Selkirk-Interlake-Eastman","Conservative",1,19.99
+"Selkirk-Interlake-Eastman","Liberal",1,-8.05
+"Selkirk-Interlake-Eastman","Green",1,0.0300000000000002
+"Shefford","New Democratic",1,3.94
+"Shefford","Bloc Québécois",1,17.55
+"Shefford","Liberal",1,-0.509999999999998
+"Shefford","Green",1,-1.06
+"Shefford","Conservative",1,-19.13
+"Sherbrooke","Bloc Québécois",1,15.79
+"Sherbrooke","Conservative",1,-22.49
+"Sherbrooke","New Democratic",1,17.6
+"Sherbrooke","Green",1,-2.23
+"Sherbrooke","Liberal",1,-9.66
+"Sherwood Park-Fort Saskatchewan","Green",1,-0.96
+"Sherwood Park-Fort Saskatchewan","Conservative",1,32.03
+"Sherwood Park-Fort Saskatchewan","New Democratic",1,-9.92
+"Sherwood Park-Fort Saskatchewan","Liberal",1,-19.05
+"Simcoe North","Conservative",1,11.61
+"Simcoe North","Liberal",1,0.339999999999996
+"Simcoe North","Green",1,1.03
+"Simcoe North","New Democratic",1,-9.15
+"Simcoe-Grey","New Democratic",1,-10.13
+"Simcoe-Grey","Green",1,0.970000000000001
+"Simcoe-Grey","Conservative",1,14.69
+"Simcoe-Grey","Liberal",1,-0.869999999999997
+"Skeena-Bulkley Valley","Liberal",1,-20.75
+"Skeena-Bulkley Valley","Green",1,0.21
+"Skeena-Bulkley Valley","New Democratic",1,31.35
+"Skeena-Bulkley Valley","Conservative",1,-7.12
+"Souris-Moose Mountain","Green",1,-0.78
+"Souris-Moose Mountain","Conservative",1,38.23
+"Souris-Moose Mountain","Liberal",1,-25.94
+"Souris-Moose Mountain","New Democratic",1,-6.05
+"South Okanagan-West Kootenay","Liberal",1,-11.34
+"South Okanagan-West Kootenay","Conservative",1,-2.07
+"South Okanagan-West Kootenay","New Democratic",1,17.55
+"South Okanagan-West Kootenay","Green",1,0.76
+"South Shore-St. Margarets","New Democratic",1,-2.9
+"South Shore-St. Margarets","Liberal",1,17.46
+"South Shore-St. Margarets","Green",1,-0.52
+"South Shore-St. Margarets","Conservative",1,-9.35
+"South Surrey-White Rock","Conservative",1,12.12
+"South Surrey-White Rock","Liberal",1,2.02
+"South Surrey-White Rock","Green",1,-0.00999999999999979
+"South Surrey-White Rock","New Democratic",1,-9.32
+"Spadina-Fort York","Liberal",1,15.19
+"Spadina-Fort York","New Democratic",1,7.55
+"Spadina-Fort York","Conservative",1,-16.18
+"Spadina-Fort York","Green",1,-1.37
+"St. Albert-Edmonton","Green",1,-2.04
+"St. Albert-Edmonton","Liberal",1,-16.93
+"St. Albert-Edmonton","New Democratic",1,-8.57
+"St. Albert-Edmonton","Conservative",1,13.33
+"St. Catharines","Liberal",1,3.71
+"St. Catharines","Green",1,-0.85
+"St. Catharines","Conservative",1,5.66
+"St. Catharines","New Democratic",1,-3.22
+"St. John's East","Green",1,-2.32
+"St. John's East","Conservative",1,-25.36
+"St. John's East","New Democratic",1,25.56
+"St. John's East","Liberal",1,7.26000000000001
+"St. John's South-Mount Pearl","Green",1,-2.62
+"St. John's South-Mount Pearl","Conservative",1,-27.34
+"St. John's South-Mount Pearl","New Democratic",1,17.03
+"St. John's South-Mount Pearl","Liberal",1,18.39
+"Steveston-Richmond East","Liberal",1,5.61
+"Steveston-Richmond East","Conservative",1,6.56
+"Steveston-Richmond East","Green",1,0.24
+"Steveston-Richmond East","New Democratic",1,-7.59
+"Stormont-Dundas-South Glengarry","Liberal",1,-0.969999999999999
+"Stormont-Dundas-South Glengarry","Green",1,-1.23
+"Stormont-Dundas-South Glengarry","Conservative",1,19.19
+"Stormont-Dundas-South Glengarry","New Democratic",1,-11.53
+"Sturgeon River-Parkland","Green",1,-0.38
+"Sturgeon River-Parkland","New Democratic",1,-9.71
+"Sturgeon River-Parkland","Conservative",1,38.32
+"Sturgeon River-Parkland","Liberal",1,-23.89
+"Sudbury","Green",1,-0.39
+"Sudbury","Conservative",1,-10.81
+"Sudbury","Liberal",1,7.94
+"Sudbury","New Democratic",1,8.06
+"Surrey Centre","New Democratic",1,10.35
+"Surrey Centre","Green",1,0.0300000000000002
+"Surrey Centre","Liberal",1,5.6
+"Surrey Centre","Conservative",1,-12.1
+"Surrey-Newton","Conservative",1,-16.2
+"Surrey-Newton","New Democratic",1,6.39
+"Surrey-Newton","Green",1,-1.24
+"Surrey-Newton","Liberal",1,16.51
+"Sydney-Victoria","Green",1,-0.93
+"Sydney-Victoria","Conservative",1,-21.27
+"Sydney-Victoria","Liberal",1,33.73
+"Sydney-Victoria","New Democratic",1,-6.67
+"Terrebonne","New Democratic",1,5.88
+"Terrebonne","Bloc Québécois",1,28.34
+"Terrebonne","Conservative",1,-20.56
+"Terrebonne","Liberal",1,-11.48
+"Terrebonne","Green",1,-1.69
+"Thornhill","Green",1,-2.23
+"Thornhill","New Democratic",1,-14.53
+"Thornhill","Liberal",1,-5.67
+"Thornhill","Conservative",1,26.69
+"Thunder Bay-Rainy River","Green",1,1.8
+"Thunder Bay-Rainy River","Liberal",1,4.54
+"Thunder Bay-Rainy River","New Democratic",1,9.93
+"Thunder Bay-Rainy River","Conservative",1,-10.82
+"Thunder Bay-Superior North","New Democratic",1,3.45
+"Thunder Bay-Superior North","Green",1,10.37
+"Thunder Bay-Superior North","Liberal",1,5.52
+"Thunder Bay-Superior North","Conservative",1,-14.48
+"Thérèse-De Blainville","New Democratic",1,5.2
+"Thérèse-De Blainville","Bloc Québécois",1,22.42
+"Thérèse-De Blainville","Green",1,-1.03
+"Thérèse-De Blainville","Conservative",1,-19.47
+"Thérèse-De Blainville","Liberal",1,-6.97
+"Timmins-James Bay","New Democratic",1,23.12
+"Timmins-James Bay","Conservative",1,-11.51
+"Timmins-James Bay","Green",1,-1.41
+"Timmins-James Bay","Liberal",1,-4.74999999999999
+"Tobique-Mactaquac","Conservative",1,5.11
+"Tobique-Mactaquac","New Democratic",1,-8.45
+"Tobique-Mactaquac","Liberal",1,7.14
+"Tobique-Mactaquac","Green",1,1.67
+"Toronto Centre","Liberal",1,18.43
+"Toronto Centre","Green",1,-0.83
+"Toronto Centre","Conservative",1,-19.72
+"Toronto Centre","New Democratic",1,6.88
+"Toronto-Danforth","Conservative",1,-22.05
+"Toronto-Danforth","Green",1,1.28
+"Toronto-Danforth","New Democratic",1,20.44
+"Toronto-Danforth","Liberal",1,2.87
+"Toronto-St. Paul's","Liberal",1,15.79
+"Toronto-St. Paul's","Green",1,-0.4
+"Toronto-St. Paul's","Conservative",1,-4.92
+"Toronto-St. Paul's","New Democratic",1,-5.01
+"Trois-Rivières","Bloc Québécois",1,12.33
+"Trois-Rivières","Conservative",1,-13.28
+"Trois-Rivières","New Democratic",1,12.1
+"Trois-Rivières","Liberal",1,-9.25
+"Trois-Rivières","Green",1,-1.72
+"University-Rosedale","Liberal",1,10.33
+"University-Rosedale","New Democratic",1,8.86
+"University-Rosedale","Conservative",1,-14.4
+"University-Rosedale","Green",1,-0.5
+"Vancouver Centre","New Democratic",1,0.280000000000001
+"Vancouver Centre","Conservative",1,-15
+"Vancouver Centre","Liberal",1,16.61
+"Vancouver Centre","Green",1,2.38
+"Vancouver East","Liberal",1,-11.31
+"Vancouver East","Conservative",1,-21.14
+"Vancouver East","New Democratic",1,30.21
+"Vancouver East","Green",1,5.76
+"Vancouver Granville","Conservative",1,-5.85
+"Vancouver Granville","Liberal",1,4.46
+"Vancouver Granville","Green",1,-0.29
+"Vancouver Granville","New Democratic",1,7.14
+"Vancouver Kingsway","Green",1,-0.18
+"Vancouver Kingsway","New Democratic",1,26.01
+"Vancouver Kingsway","Conservative",1,-10.9
+"Vancouver Kingsway","Liberal",1,-11.66
+"Vancouver Quadra","Conservative",1,-6.08
+"Vancouver Quadra","Liberal",1,19.24
+"Vancouver Quadra","Green",1,0.78
+"Vancouver Quadra","New Democratic",1,-8.88
+"Vancouver South","New Democratic",1,-5.76
+"Vancouver South","Green",1,-0.85
+"Vancouver South","Liberal",1,9.34
+"Vancouver South","Conservative",1,1.97
+"Vaudreuil-Soulanges","New Democratic",1,2.58
+"Vaudreuil-Soulanges","Green",1,-1.22
+"Vaudreuil-Soulanges","Conservative",1,-18.1
+"Vaudreuil-Soulanges","Liberal",1,7.15000000000001
+"Vaudreuil-Soulanges","Bloc Québécois",1,10.37
+"Vaughan-Woodbridge","New Democratic",1,-15.08
+"Vaughan-Woodbridge","Green",1,-2.16
+"Vaughan-Woodbridge","Liberal",1,9.43
+"Vaughan-Woodbridge","Conservative",1,11.73
+"Victoria","Liberal",1,-27.66
+"Victoria","Green",1,29.49
+"Victoria","Conservative",1,-20.12
+"Victoria","New Democratic",1,22.55
+"Ville-Marie-Le Sud-Ouest-Île-des-Sœurs","New Democratic",1,3.71
+"Ville-Marie-Le Sud-Ouest-Île-des-Sœurs","Bloc Québécois",1,3.92
+"Ville-Marie-Le Sud-Ouest-Île-des-Sœurs","Green",1,1.35
+"Ville-Marie-Le Sud-Ouest-Île-des-Sœurs","Liberal",1,11.35
+"Ville-Marie-Le Sud-Ouest-Île-des-Sœurs","Conservative",1,-20.05
+"Vimy","Conservative",1,-18.55
+"Vimy","Bloc Québécois",1,12.02
+"Vimy","Liberal",1,6.68
+"Vimy","New Democratic",1,1.23
+"Vimy","Green",1,-1.07
+"Waterloo","Liberal",1,10.23
+"Waterloo","New Democratic",1,-4.83
+"Waterloo","Conservative",1,0.389999999999997
+"Waterloo","Green",1,-0.53
+"Wellington-Halton Hills","New Democratic",1,-11.43
+"Wellington-Halton Hills","Green",1,0.57
+"Wellington-Halton Hills","Liberal",1,-2.97
+"Wellington-Halton Hills","Conservative",1,18.99
+"West Nova","Conservative",1,-5.82
+"West Nova","Green",1,0.74
+"West Nova","Liberal",1,23.52
+"West Nova","New Democratic",1,-12.98
+"West Vancouver-Sunshine Coast-Sea to Sky Country","Conservative",1,-5.71
+"West Vancouver-Sunshine Coast-Sea to Sky Country","Green",1,5.46
+"West Vancouver-Sunshine Coast-Sea to Sky Country","New Democratic",1,-9.87
+"West Vancouver-Sunshine Coast-Sea to Sky Country","Liberal",1,15.15
+"Whitby","Liberal",1,5.48
+"Whitby","Green",1,-1.26
+"Whitby","Conservative",1,10.18
+"Whitby","New Democratic",1,-9.38
+"Willowdale","Liberal",1,13.93
+"Willowdale","Conservative",1,5.09
+"Willowdale","Green",1,-1.23
+"Willowdale","New Democratic",1,-12.73
+"Windsor West","New Democratic",1,31.62
+"Windsor West","Green",1,-1.12
+"Windsor West","Liberal",1,-14.22
+"Windsor West","Conservative",1,-11.16
+"Windsor-Tecumseh","New Democratic",1,23.79
+"Windsor-Tecumseh","Green",1,-1.47
+"Windsor-Tecumseh","Liberal",1,-12.89
+"Windsor-Tecumseh","Conservative",1,-4.44
+"Winnipeg Centre","Conservative",1,-19.55
+"Winnipeg Centre","Green",1,0.640000000000001
+"Winnipeg Centre","New Democratic",1,8.28
+"Winnipeg Centre","Liberal",1,15.04
+"Winnipeg North","Conservative",1,-16.62
+"Winnipeg North","Green",1,-1
+"Winnipeg North","Liberal",1,29.43
+"Winnipeg North","New Democratic",1,-6.35
+"Winnipeg South","Green",1,-1.38
+"Winnipeg South","New Democratic",1,-14.74
+"Winnipeg South","Conservative",1,2.76
+"Winnipeg South","Liberal",1,18.82
+"Winnipeg South Centre","Green",1,-0.3
+"Winnipeg South Centre","Liberal",1,20.25
+"Winnipeg South Centre","Conservative",1,-3.72
+"Winnipeg South Centre","New Democratic",1,-10.77
+"Yellowhead","Conservative",1,40.34
+"Yellowhead","New Democratic",1,-10.68
+"Yellowhead","Liberal",1,-25.25
+"Yellowhead","Green",1,-0.5
+"York Centre","Green",1,-1.63
+"York Centre","New Democratic",1,-12.4
+"York Centre","Conservative",1,12.08
+"York Centre","Liberal",1,7.41
+"York South-Weston","Liberal",1,6.53
+"York South-Weston","Conservative",1,-12.71
+"York South-Weston","Green",1,-1.43
+"York South-Weston","New Democratic",1,10.67
+"York-Simcoe","Green",1,-0.33
+"York-Simcoe","Conservative",1,18.34
+"York-Simcoe","Liberal",1,-1.7
+"York-Simcoe","New Democratic",1,-10.84
+"Yorkton-Melville","Liberal",1,-21.71
+"Yorkton-Melville","Conservative",1,27.31
+"Yorkton-Melville","New Democratic",1,0.469999999999999
+"Yorkton-Melville","Green",1,-0.62
+"Yukon","Green",1,-0.8
+"Yukon","Liberal",1,14.18
+"Yukon","New Democratic",1,-0.300000000000001
+"Yukon","Conservative",1,-7.62

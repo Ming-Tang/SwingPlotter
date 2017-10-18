@@ -1,0 +1,204 @@
+@import '_includes/_vars';
+@import '_includes/_mixins';
+@import '../../node_modules/flexboxgrid/css/flexboxgrid.min.css';
+
+html, body {
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    font-family: 'Open Sans', Helvetica;
+}
+
+header {
+    padding: 5em 1.5em;
+    color: $white;
+
+    h1 {
+    	font-weight: 700;
+    	font-size: 3.5em;
+	}
+}
+
+header, .download {
+    background: $red;
+    background: $pink;
+    background: -webkit-linear-gradient(to left, $pink, $red);
+    background: linear-gradient(to left, $pink, $red);
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn {
+    border-radius: .3em;
+    border-style: solid;
+    border-width: 1px;
+    color: $white;
+    border-color: $white;
+    display: inline-block;
+    margin-bottom: .5em;
+    padding: .35em .75em;
+    text-decoration: none;
+    text-transform: uppercase;
+    -webkit-transition: color .3s, background-color .3s, border .3s;
+    transition: color .3s, background-color .3s, border .3s;
+    font-size: .85em;
+    margin: .25em;
+
+    &:hover {
+	    background-color: #f5f5f5;
+		color: $pink;
+    }
+}
+
+.btn-background {
+    margin: 10px 0;
+    background-color: $pink;
+    color: $white;
+    padding: .5em;
+    border-radius: .3em;
+    border-color: $pink;
+
+    &:hover {
+    	background-color: #f66e88;
+    	color: $white;
+    	border-color: #f66e88;
+    }
+}
+
+header,footer {
+    text-align: center;
+}
+
+.buttons {
+    margin: .85em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 300;
+    margin: 0;
+}
+
+footer {
+    background-color: $white;
+    padding: 2em;
+}
+
+.icon {
+    width: .85em;
+    height: .85em;
+    display: inline-block;
+}
+
+.icon-heart {
+    fill: #EC407A;
+}
+
+.wrap {
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+section {
+    padding: 2em 1.5em 0;
+}
+
+section:last-child {
+    padding-bottom: 3em;
+}
+
+main {
+    background-color: #f1f8fb;
+}
+
+blockquote {
+    margin: 1rem 0;
+    padding-left: 1.5rem;
+    border-left: 5px solid $pink;
+}
+
+b {
+    color: #24334a;
+}
+
+.section-title {
+    font-weight: 700;
+    color: $pink;
+}
+
+p {
+    font-weight: 300;
+    color: #37474F;
+}
+
+p a,
+footer a,
+.highlight-code,
+.gulp-task {
+    color: #26C6DA;
+    transition: color .2s;
+}
+
+.gulp-default {
+	color: $pink;
+}
+
+p a:hover,
+footer a:hover {
+    color: #80DEEA;
+    transition: color .2s;
+}
+
+code, .tech {
+    border-radius: .3em;
+    border: 1px solid #E3EDF3;
+    padding: .5em;
+    background: $white;
+    white-space: nowrap;
+    font-family: monospace;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    color: #37474F;
+}
+
+.code-block,
+.code-block-small {
+    margin: 1.5em 0;
+}
+
+.gulp-task {
+    border-radius: .3em;
+    border: 1px solid #E3EDF3;
+    background: $white;
+    white-space: nowrap;
+    font-family: monospace;
+    padding: .3em;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 2em 0;
+}
+
+li {
+    margin-top: 1.25em;
+    font-weight: 300;
+    color: #37474F;
+}
+
+@include bp-mobile {
+	header h1 {
+        font-size: 2.55em;
+    }
+    .code-block code {
+        display: block;
+    }
+}
+
+@media(max-width:843px) {
+    .btn-download {
+        margin-bottom: 1.5em;
+    }
+}

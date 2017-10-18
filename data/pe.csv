@@ -1,0 +1,6 @@
+"pe_id","party_name","election_id","candidates","leader","popular_vote","popular_vote_percent","popular_vote_delta_percent","seats_dissolution","seats_elected"
+"F2015:Bloc Québécois","Bloc Québécois","F2015",78,"Gilles Duceppe",821144,4.67,-1.38,2,10
+"F2015:Conservative","Conservative","F2015",338,"Stephen Harper",5613614,31.91,-7.73,159,99
+"F2015:Green","Green","F2015",336,"Elizabeth May",602944,3.43,-0.46,2,1
+"F2015:Liberal","Liberal","F2015",338,"Justin Trudeau",6943276,39.47,20.56,36,184
+"F2015:New Democratic","New Democratic","F2015",338,"Tom Mulcair",3470350,19.73,-10.92,95,44
