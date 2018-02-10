@@ -10,7 +10,7 @@ html, body {
 }
 
 header {
-    padding: 5em 1.5em;
+    padding: 3em 0.5em;
     color: $white;
 
     h1 {
@@ -21,9 +21,6 @@ header {
 
 header, .download {
     background: $red;
-    background: $pink;
-    background: -webkit-linear-gradient(to left, $pink, $red);
-    background: linear-gradient(to left, $pink, $red);
 }
 
 a {
@@ -38,12 +35,12 @@ a {
     border-color: $white;
     display: inline-block;
     margin-bottom: .5em;
-    padding: .35em .75em;
+    padding: 0.8em;
     text-decoration: none;
     text-transform: uppercase;
     -webkit-transition: color .3s, background-color .3s, border .3s;
     transition: color .3s, background-color .3s, border .3s;
-    font-size: .85em;
+    font-size: 1.5em;
     margin: .25em;
 
     &:hover {
@@ -65,6 +62,11 @@ a {
     	color: $white;
     	border-color: #f66e88;
     }
+}
+
+section {
+    text-align: center;
+
 }
 
 header,footer {
@@ -132,48 +134,20 @@ p {
     color: #37474F;
 }
 
-p a,
-footer a,
-.highlight-code,
-.gulp-task {
-    color: #26C6DA;
-    transition: color .2s;
+div#pv_sliders, div#buttons {
+  margin: 2em;
+  margin-top: 3em;
 }
 
-.gulp-default {
-	color: $pink;
+div.slider_container {
+  padding: 3em 1em;
+  padding-bottom: 1em;
 }
 
 p a:hover,
 footer a:hover {
     color: #80DEEA;
     transition: color .2s;
-}
-
-code, .tech {
-    border-radius: .3em;
-    border: 1px solid #E3EDF3;
-    padding: .5em;
-    background: $white;
-    white-space: nowrap;
-    font-family: monospace;
-    overflow-x: scroll;
-    overflow-y: hidden;
-    color: #37474F;
-}
-
-.code-block,
-.code-block-small {
-    margin: 1.5em 0;
-}
-
-.gulp-task {
-    border-radius: .3em;
-    border: 1px solid #E3EDF3;
-    background: $white;
-    white-space: nowrap;
-    font-family: monospace;
-    padding: .3em;
 }
 
 ul {
@@ -186,19 +160,4 @@ li {
     margin-top: 1.25em;
     font-weight: 300;
     color: #37474F;
-}
-
-@include bp-mobile {
-	header h1 {
-        font-size: 2.55em;
-    }
-    .code-block code {
-        display: block;
-    }
-}
-
-@media(max-width:843px) {
-    .btn-download {
-        margin-bottom: 1.5em;
-    }
 }

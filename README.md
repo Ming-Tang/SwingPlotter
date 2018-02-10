@@ -1,33 +1,24 @@
 # SwingPlotter
 
-> TODO
+Plots the effects of popular vote swings for Canadian federal elections.
 
-## Technologies
+# Swing Model
 
+The swing model used for seat projections is uniform swing based on
+Canadian federal election 2015. See `data/` directory for dataset.
+
+# Setup and Run
+
+```
+npm install
+gulp
+```
+
+# Technologies
+
+- [**GPU.js**](http://gpu.rocks)
 - [**Gulp**](http://gulpjs.com)
-- [**Html**](https://developer.mozilla.org/es/docs/HTML/HTML5) 
-- [**Sass**](http://sass-lang.com)  
+- [**Sass**](http://sass-lang.com)
 - [**Babel**](https://babeljs.io)
-- [**JSHint**](http://jshint.com) 
+- [**JSHint**](http://jshint.com)
 
-## Install and Use
-
-### Install
-
-```bash
-npm install -g SwingPlotter
-```
-
-### Use 
-
-```bash
-yo SwingPlotter
-```
-
-# Author 
-
-Ming-Tang - none@gmail.com
-
-# License 
-
-The code is available under the **MIT** license. 
